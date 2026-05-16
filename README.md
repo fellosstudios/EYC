@@ -40,14 +40,6 @@ VSCode extension'ını kurmak için:
 2. "EYC: Generate index.html" seçin
 3. JS dosyanızı yükleyen `index.html` oluşturulur
 
-## Build
-
-Extension'ı yeniden derlemek için:
-
-```batch
-build_extension.bat
-```
-
 ## Lisans
 
 MIT License
